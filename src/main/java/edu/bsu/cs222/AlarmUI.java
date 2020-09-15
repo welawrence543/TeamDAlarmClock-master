@@ -85,7 +85,7 @@ public class AlarmUI extends Application {
         AmPm.getItems().addAll("AM", "PM");
         AmPm.setStyle("-fx-background-color: yellow");
         month.setPromptText("Month");
-        month.getItems().addAll("Jan", "Feb", "Mar", "Apr", "May", "Jun","Jul", "Oct","Nov", "Dec");
+        month.getItems().addAll("Jan", "Feb", "Mar", "Apr", "May", "Jun","Jul", "Aug", "Sep", "Oct","Nov", "Dec");
         month.setStyle("-fx-background-color: yellow");
         day.setPromptText("Day");
         day.getItems().addAll("01", "02", "03", "04", "05", "06", "07", "08", "09", "10", "11",
